@@ -1,4 +1,4 @@
-# BullBearBeerBabes
+# Bull, Bear and Beer
 If you can't spot the sucker in the first half hour at the table, then you are the sucker....
 
 ### Option Trade Structure Analysis
